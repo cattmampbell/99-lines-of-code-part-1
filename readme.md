@@ -34,6 +34,11 @@
 * As usual, make sure you save and then commit and push your work to GitHub.
 
 ## Example Output
+
+* Your console output should look similar to this:
+
+<hr> 
+
 `JOHN:` <br />
 `99 lines of code in the file, 99 lines of code; John strikes one out, clears it all out, 98 lines of code in the file.` <br />
 `98 lines of code in the file, 98 lines of code; John strikes one out, clears it all out, 97 lines of code in the file.` <br />
